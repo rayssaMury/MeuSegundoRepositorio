@@ -9,4 +9,4 @@ printf ("Bob")
 {
 int main (){
 return 0;
-{
+}
